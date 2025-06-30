@@ -1,6 +1,6 @@
 # AtliQ Hardware  Business Insight 360 Power BI Dashboard
 
-## Project Overview
+# Project Overview
 	AtliQ Hardwares faced significant setbacks, particularly in Latin America, where decisions were often based on intuition and limited surveys. The core problem was the lack of a unified, data-driven approach to understand business performance and identify areas for improvement. Their heavy reliance on Excel for data analysis became inadequate as data volumes grew, leading to delayed insights, potential inaccuracies, and hindered effective decision-making. The investment in this Power BI dashboard aimed to address this critical need for timely, reliable information across key business domains.
 
 # Key Skills:-
