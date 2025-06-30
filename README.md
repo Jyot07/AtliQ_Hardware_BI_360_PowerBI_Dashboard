@@ -45,3 +45,5 @@ AtliQ Hardwares faced significant setbacks, particularly in Latin America, where
 
 # Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiYzFhYTQ0OTktOTllNS00ZDgwLTlmNmQtNDNkZDFlYjE1Mzk1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+	Thank you to Codebasics for this amazing learning opportunity.
+
